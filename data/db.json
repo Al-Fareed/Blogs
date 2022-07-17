@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to Start a Blog in 6 Steps",
+      "datetime": "July 17, 2022 12:14:26 PM",
+      "body": "*Pick a blog name. Choose a descriptive name for your blog.\n*Get your blog online. Register your blog and get hosting.   \n*Customize your blog. Choose a free blog design template and tweak it.  \n*Write & publish your first post. ...\n*Promote your blog. ...\n*Make money blogging."
+    },
+    {
+      "id": 2,
+      "title": "Types Of Blogs",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Personal blogs. Business/corporate blogs. Personal brand/professional blogs"
+    },
+    {
+      "id": 3,
+      "title": "What is Blog",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links."
+    }
+  ]
+}
